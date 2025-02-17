@@ -157,7 +157,7 @@
                 <select id="task">
                     <option value="Jornati">Jornati</option>
                     <option value="Baraariko">Baraariko</option>
-                    <option value="Mohan">Mohan</option>
+             
                 </select>
             </div>
             <div class="form-group">
@@ -165,7 +165,7 @@
                 <select id="location">
                     <option value="Xarun">Xarun</option>
                     <option value="Project">Project</option>
-                    <option value="Nalfar">Nalfar</option>
+                 
                 </select>
             </div>
             <button type="submit" class="rotate-btn">Save</button>
