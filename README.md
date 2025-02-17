@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -357,5 +357,4 @@
             doc.save('task-table.pdf');
         }
     </script>
-</body>
-</html>
+
